@@ -6,6 +6,8 @@
 - 通用创作课蒸馏的体裁写作（网文 / 短剧 / 剧本 / 新媒体等）
 - 可执行的商业内容生产线（短剧 / 漫剧 / 长篇 / IP 等细粒度 Agent Skill）
 
+**站点：** [https://vangong1999.github.io/openwriting-skills/](https://vangong1999.github.io/openwriting-skills/)
+
 
 
 ---
